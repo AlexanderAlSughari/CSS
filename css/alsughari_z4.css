@@ -1,0 +1,14 @@
+div
+{
+    color: blue;
+    font-size: 1cm;
+}
+
+@media screen and (min-width: 390px) and (max-width: 820px)
+{
+    div
+    {
+        color: red;
+        font-size: 2cm;
+    }
+}
