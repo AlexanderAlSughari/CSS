@@ -13,3 +13,8 @@ function OpenCode(als)
     var top = (screen.height/2)-(900/2);
     window.open("pages/zadanie" + als + "_kod.html", "", "height=900","width=900", "top = " + top + ", left = " + left);
 }
+
+function Zadanie5()
+{
+    window.open("zadanie5/index_alsughari.html");
+}
